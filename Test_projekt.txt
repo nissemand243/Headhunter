@@ -8,3 +8,7 @@ så kan de her testes og derefter kan jeg implementere det på masterbranch elle
 her har jeg så valgt at lægge noget nyt ind her sådan at jeg viser at jeg kan "merge" 2 branches
 en branch og master-branch hvilket betyder at jeg kan vise jeg har edited filen via 2 forskellige branches
 men har trukket dem sammen til 1. (12.31)
+
+Jeg fik lige lyst til at lave endnu en branch, det skal lige siges jeg får travlt senere med afleveringer
+så jeg besluttede at lave det her min sidste og arbejde på mit blogindlæg til idag,
+da jeg troede det var noget vi havde skrevet før -.- my bad, men wth det skal jo bare ordnes (13.09)
