@@ -1,15 +1,4 @@
-test
-
-dette
-skal
-bruges
-til
-et
-skole
-projekt
-
-edit:
-
-opdate, grundet manglende lærer-tilstedeværelse
-
-opdate, opdate, jeg prøver bare at lave flere commitments
+Dette er en ny "branch" eller gren, det betyder at
+jeg har brugt layoutet fra den originale "master branch" og redigerer det uden at ændre originalen.
+det betyder at jeg kan lave ting jeg måske har overvejet men ikke ved om fungerer og skal teste først.
+så kan de her testes og derefter kan jeg implementere det på masterbranch eller lade vær.
