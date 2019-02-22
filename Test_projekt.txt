@@ -1,4 +1,8 @@
 Dette er en ny "branch" eller gren, det betyder at - tilføjer lidt ext her for at der sker noget begge stedet: (12.32)
 jeg har brugt layoutet fra den originale "master branch" og redigerer det uden at ændre originalen.
 det betyder at jeg kan lave ting jeg måske har overvejet men ikke ved om fungerer og skal teste først.
-så kan de her testes og derefter kan jeg implementere det på masterbranch eller lade vær.
+så kan de her testes og derefter kan jeg implementere det på masterbranch eller lade vær. (12.25)
+
+
+
+her har jeg så valgt at lægge noget nyt ind her sådan at jeg viser at jeg kan "merge" 2 branches, en branch og master-branch hvilket betyder at jeg kan vise jeg har edited filen via 2 forskellige branches men har trukket dem sammen til 1. (12.31)
